@@ -18,6 +18,7 @@ module top_module (
             Q[7]<=Q[6];
         end
     always@(*)
+        if(!enable)
         case({A,B,C})
             3'b000:Z=Q[0];
             3'b001:Z=Q[1];
