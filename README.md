@@ -2,7 +2,7 @@
 <h2>Problem Statement</h2>
 <img src="Screenshot 2025-07-21 203007.png" >
 <h2>Output</h2>
-<img src="Screenshot 2025-07-21 193210.png" >
+<img src="output.png" >
 
 <h2>Graph</h2>
-<img src="Screenshot 2025-07-21 193400.png" >
+<img src="Graph.png" >
